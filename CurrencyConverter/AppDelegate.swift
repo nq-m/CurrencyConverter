@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  CurrencyConverter
-//
-//  Created by Mohammad Raza Naqvi on 6/28/26.
-//
-
 import UIKit
 
 @main
@@ -13,7 +6,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
         return true
     }
 

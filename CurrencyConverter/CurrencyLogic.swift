@@ -1,7 +1,7 @@
 import Foundation
 
 struct CurrencyLogic {
-    let rates = ["EUR": 0.95, "GBP": 0.79, "JPY": 150.0, "CAD": 1.35]
+    let rates = ["EUR": 0.88, "GBP": 0.76, "JPY": 161.8, "CAD": 1.42]
     var currentUSD: Int = 0
     
     mutating func validateInput(_ input: String?) -> Bool {
